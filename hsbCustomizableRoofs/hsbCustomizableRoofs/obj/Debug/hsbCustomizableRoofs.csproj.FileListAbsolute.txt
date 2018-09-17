@@ -1,0 +1,11 @@
+C:\Users\HSB SoftEcuador\source\repos\hsbCustomizableRoofs\hsbCustomizableRoofs\bin\Debug\hsbCustomizableRoofs.dll
+C:\Users\HSB SoftEcuador\source\repos\hsbCustomizableRoofs\hsbCustomizableRoofs\bin\Debug\hsbCustomizableRoofs.pdb
+C:\Users\HSB SoftEcuador\source\repos\hsbCustomizableRoofs\hsbCustomizableRoofs\obj\Debug\hsbCustomizableRoofs.csprojAssemblyReference.cache
+C:\Users\HSB SoftEcuador\source\repos\hsbCustomizableRoofs\hsbCustomizableRoofs\obj\Debug\hsbCustomizableRoofs.csproj.CoreCompileInputs.cache
+C:\Users\HSB SoftEcuador\source\repos\hsbCustomizableRoofs\hsbCustomizableRoofs\obj\Debug\hsbCustomizableRoofs.dll
+C:\Users\HSB SoftEcuador\source\repos\hsbCustomizableRoofs\hsbCustomizableRoofs\obj\Debug\hsbCustomizableRoofs.pdb
+C:\Users\HSB SoftEcuador\Desktop\Phoenix1\DynamoCLTModelForTesting\hsbCustomizableRoofs\hsbCustomizableRoofs\bin\Debug\hsbCustomizableRoofs.dll
+C:\Users\HSB SoftEcuador\Desktop\Phoenix1\DynamoCLTModelForTesting\hsbCustomizableRoofs\hsbCustomizableRoofs\bin\Debug\hsbCustomizableRoofs.pdb
+C:\Users\HSB SoftEcuador\Desktop\Phoenix1\DynamoCLTModelForTesting\hsbCustomizableRoofs\hsbCustomizableRoofs\obj\Debug\hsbCustomizableRoofs.csproj.CoreCompileInputs.cache
+C:\Users\HSB SoftEcuador\Desktop\Phoenix1\DynamoCLTModelForTesting\hsbCustomizableRoofs\hsbCustomizableRoofs\obj\Debug\hsbCustomizableRoofs.dll
+C:\Users\HSB SoftEcuador\Desktop\Phoenix1\DynamoCLTModelForTesting\hsbCustomizableRoofs\hsbCustomizableRoofs\obj\Debug\hsbCustomizableRoofs.pdb
